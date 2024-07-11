@@ -1,0 +1,91 @@
+
+
+body{
+    background-color: #F7FCFF;
+    margin-left: 50px;
+}
+.item_title{
+    font-weight: 900;
+    color: #23272E;
+    
+}
+.item_cost{
+    font-size: 32px;
+    font-weight: bold;
+    color: #23272E;
+    margin-top: 32px;
+}
+.increasing_cover{
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+.increasing{
+    display: flex;
+    gap:4px;
+    margin-top: 16px;
+}
+.increasing_amount{
+    color: #1EB564;
+    font-size: 14px;
+}
+.item_subtitle{
+    color: #8B909A;
+    padding-top: 16px;
+}
+.item{
+    background-color: white;
+    padding: 8px;
+    border-radius: 16px;
+}
+.descending_cover{
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+.descending{
+    display: flex;
+    gap:4px;
+    margin-top: 16px;
+}
+.descending_amount{
+    color: #D02626;
+    font-size: 14px;
+}
+.list_item__price{
+    font-size: 15px;
+    margin-bottom: 36px;
+    text-align: right;
+}
+
+.list_item__description{
+    font-size: 13px;
+    color: #8B909A;
+    margin-bottom: 24px;
+}
+.table_title{
+    background-color:#F7FCFF ;
+}
+.table_title__cover{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.total_sales__cover{
+    display: flex;
+
+}
+.cover{
+    display: flex;
+    align-items:center;
+    background-color: white;
+    padding: 8px;
+    border-radius: 16px;
+    
+}
+.item_cover{
+    background-color: white;
+    padding: 8px;
+    border-radius: 16px; 
+}
